@@ -1,0 +1,744 @@
+﻿RAMA (RUS),"TIPO DE ACTIVIDAD (""Tipo 02_16"" del RUS)",CANTIDAD DE RELEVAMIENTOS,REMOTICIDAD FINAL,HERRAMIENTAS DE FABRICACIÓN,POSIBILIDAD DE DISTRIBUCIÓN,NECESIDAD DE TRASLADO CONSUMIDOR,EVALUACIÓN PRESENCIAL DE LA CALIDAD,VENTA EXPERIENCIA PRESENCIAL,HÁBITO DE CONSUMO REMOTO,USOS NO COMERCIALES,REMOTO FULL,REMOTO HUB,REMOTO MIX,R. COMPLEJO,NO REMOTO
+EDIFICIOS,VIVIENDA,149060,viviendaSi,,,,,,,viviendaSi,,,,,
+"FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO",METALURGIA,58,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+EDIFICIOS,CASA,97541,viviendaSi,,,,,,,viviendaSi,,,,,
+SERVICIOS COMPLEMENTARIOS AL TRANSPORTE,GARAGE PRIVADO,115083,viviendaSi,,,,,,,viviendaSi,,,,,
+EDIFICIOS,OFICINAS,6403,remotoFull,Digital,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,5,3,2,0,1
+UNIFICADO,UNIFICADO EDIFICIO,809,viviendaSi,,,,,,,viviendaSi,,,,,
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,ALARMAS PARA AUTOMOTORES (VENTA),53,remotoMix,Herramientas manuales,Factible de manera eficiente,Se traslada un bien,No requiere,Agrega algo de valor,Público remoto potencial,,1,3,4,4,2
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,REPUESTOS AUTOMOTOR (VENTA),874,remotoHub,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+SERVICIOS COMPLEMENTARIOS AL TRANSPORTE,DEPOSITO,6544,remotoHub,Maquinaria pesada,No se distribuyen,No requiere,Opcional,No agrega valor,Sin público remoto,,2,3,2,1,3
+LOCAL CERRADO,LOCAL CERRADO,27937,sinUso,,,,,,,sinUso,,,,,
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,AIRE ACONDICIONADO AUTOMOTORES (COLOCACION Y VENT*,41,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Público remoto incipiente,,1,2,2,4,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,LUBRICENTRO,174,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega mucho valor,Público remoto incipiente,,1,2,2,5,5
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,TALLER DE SUSPENSION AUTOMOTORES,58,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,ACCESORIOS AUTOMOTOR,256,remotoMix,Maquinaria liviana,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+EDIFICIOS,VU - VIVIENDA UNICA,15738,viviendaSi,,,,,,,viviendaSi,,,,,
+HOTELERIA Y GASTRONOMIA,RESTAURANTE - BAR,452,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,TALLER MECANICO DE AUTOMOTORES,3523,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+EDIFICIOS,USO UNICO,1596,sinUso,,,,,,,sinUso,,,,,
+COMERCIO,MAXIKIOSCO,1999,remotoHub,Herramientas manuales,"Factible, no eficiente",No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,2,3,3,3,1
+COMERCIO,FERRETERIA,1094,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,1
+COMERCIO,KIOSCO,2307,remotoHub,Herramientas manuales,"Factible, no eficiente",No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,2,3,3,3,1
+EDIFICIOS,ABANDONADO,2146,sinUso,,,,,,,sinUso,,,,,
+EDIFICIOS,CERRADO,1180,sinUso,,,,,,,sinUso,,,,,
+EDIFICIOS,EDIFICIO PRODUCTIVO,6622,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+EDICION E IMPRESIÓN,IMPRENTA,632,remotoHub,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VIAS TREN,VIAS TREN,92,espacioPublico,,,,,,,espacioPublico,,,,,
+EDIFICIOS,EDU,2176,remotoNo,Infraestructura considerable,"Factible, no eficiente",Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,4,5
+COMERCIO,FLORES,102,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,2
+SERVICIOS DE ASOCIACIONES,IGLESIA,479,remotoComplex,Infraestructura considerable,Factible de manera eficiente,Performance,No requiere,Es excluyente,Público remoto potencial,,1,2,2,5,4
+SERVICIOS DE ASOCIACIONES,CENTRO DE JUBILADOS,260,remotoNo,Infraestructura considerable,No se distribuyen,Performance,No requiere,Es excluyente,Sin público remoto,,1,1,0,3,5
+SERVICIOS DE ASOCIACIONES,ASOCIACION CIVIL,231,remotoComplex,No requiere,No se distribuyen,Performance,No requiere,Es excluyente,Público remoto potencial,,2,1,1,3,3
+GALPON,GALPON,832,remotoNo,Infraestructura considerable,No se distribuyen,No requiere,Presencial,No agrega valor,Sin público remoto,,2,2,1,2,4
+FABRICACION DE MAQUINARIA Y APARATOS ELECTRICOS NCP,LETREROS LUMINOSOS,7,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,3,5,4,3
+LOTE,LOTE,2311,sinUso,,,,,,,sinUso,,,,,
+UNIFICADO,UNIFICADO LOTE,759,sinUso,,,,,,,sinUso,,,,,
+COMERCIO,ALMACEN + VERDULERIA,63,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+FABRICACION DE MAQUINARIA Y APARATOS ELECTRICOS NCP,FABRICACION DE ART. DE ILUMINACION,4,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,MARMOLES,63,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,CONFITERIA Y PANADERIA (ELABORACION),506,remotoHub,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO POR MAYOR,VENTA DE METALES,52,remotoHub,Infraestructura considerable,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,5,2,2,3
+SERVICOS SOCIALES Y DE SALUD,LABORATORIO DE ANALISIS BIOQUIMICOS,21,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",FABRICA DE MUEBLES MADERA,48,remotoMix,Maquinaria pesada,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+ENSEÑANZA,YOGA,108,remotoComplex,No requiere,No se distribuyen,Se traslada una persona,No requiere,Es excluyente,Público remoto potencial,,2,1,1,3,3
+COMERCIO,SUPERMERCADO,2628,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,FLORES Y PLANTAS,89,remotoComplex,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,3,4,5,5
+UNIFICADO,UNIFICADO LOCAL,397,sinUso,,,,,,,sinUso,,,,,
+HOTELERIA Y GASTRONOMIA,PIZZAS Y EMPANADAS P/LLEVAR,259,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+UNIFICADO,U GARAGE PRIVADO,154,viviendaSi,,,,,,,viviendaSi,,,,,
+"ELECTRICIDAD, GAS Y AGUA",DISTRIBUCION DE ENERGIA ELECTRICA,161,remotoHub,Infraestructura considerable,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,5,2,2,3
+HOTELERIA Y GASTRONOMIA,CAFE,668,remotoMix,Maquinaria liviana,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+SERVICIOS COMPLEMENTARIOS AL TRANSPORTE,GARAGE,2783,viviendaSi,,,,,,,viviendaSi,,,,,
+COMERCIO,GALLETITAS (VENTA NO ELAB.),14,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICIO DE TRANSPORTE,TRANSPORTE,182,remotoComplex,Infraestructura considerable,Fundamental,Se traslada una persona,No requiere,Agrega mucho valor,Público remoto potencial,,1,2,3,5,4
+COMERCIO,MUEBLES (VENTA),1114,remotoMix,Infraestructura considerable,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+FABRICACION DE PRODUCTOS QUIMICOS NCP,FABRICACION DE PINTURAS,5,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+OTROS SERVICIOS,PELUQUERIA,3187,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+COMERCIO,LIBRERIA COMERCIAL,1000,remotoMix,Infraestructura considerable,Fundamental,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,VERDULERIA Y FRUTERIA,565,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,MERCERIA,431,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,KIOSCO + ALMACEN,130,remotoMix,Herramientas manuales,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,2
+ENSEÑANZA,COLEGIO,508,remotoNo,Infraestructura considerable,Factible de manera eficiente,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,1,2,4,5
+COMERCIO,PINTURERIA,348,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICIOS EMPRESARIALES,CARTELES,49,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+SERVICIO DE TRANSPORTE URBANO DE CARGA,LOGISTICA Y DISTRIBUCION,110,remotoHub,Infraestructura considerable,Fundamental,Se traslada un bien,No requiere,No agrega valor,Público remoto considerable,,3,4,2,3,4
+FABRICACION DE SUSTANCIAS Y PRODUCTOS QUIMICOS,FABRICACION DE PROD. QUIMICOS,15,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+"FABRICACION DE AUTOPARTES, PIEZAS Y ACCESORIOS PARA VEHICULOS AUTOMOTORES Y SUS MOTORES",FABRICACION DE AUTOPARTES,16,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+SERVICIOS EMPRESARIALES,ESTUDIO JURIDICO,514,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto incipiente,,4,2,1,1,1
+COMERCIO,CALZADO,1612,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,3,4,4,4
+HOTELERIA Y GASTRONOMIA,COMIDAS PARA LLEVAR,816,remotoHub,Maquinaria liviana,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+EDIFICIOS,EN OBRA,2019,enConstruccion,,,,,,,enConstruccion,,,,,
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",COMISARIA,46,servicioSi,,,,,,,servicioSi,,,,,
+COMERCIO,ALMACEN,1080,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,ARTICULOS DE DECORACION,252,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,PUESTO DIARIOS,1883,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+INSTALACIONES PARA EDIFICIOS Y OBRAS DE INGENIERIA CIVIL,ASCENSORES,21,remotoNo,Infraestructura considerable,Fundamental,No puede trasladarse,Presencial,No agrega valor,Sin público remoto,,1,3,3,3,4
+HOTELERIA Y GASTRONOMIA,BAR,1465,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Opcional,Agrega mucho valor,Sin público remoto,,0,1,4,3,4
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",ORGANISMOS PUBLICOS MUNICIPALES,148,servicioSi,,,,,,,servicioSi,,,,,
+HOTELERIA Y GASTRONOMIA,RESTAURANTE - CAFE,109,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,FABRICA DE PASTAS,377,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,LAVADERO DE AUTOS,212,remotoNo,Infraestructura considerable,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega mucho valor,Sin público remoto,,0,0,2,4,5
+COMERCIO,OPTICA,745,remotoMix,Herramientas manuales,Factible de manera eficiente,Se traslada una persona,Presencial,Agrega algo de valor,Sin público remoto,,0,2,4,4,4
+COMERCIO,HERRERIA,257,remotoMix,Maquinaria pesada,Factible de manera eficiente,Opcional,Presencial,No agrega valor,Sin público remoto,,1,3,4,3,4
+COMERCIO,TELAS (VENTA),624,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+HOTELERIA Y GASTRONOMIA,PARRILLA,444,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+SERVICIOS DE ASOCIACIONES,ASOCIACION VECINAL,46,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,No agrega valor,Público remoto potencial,,4,3,1,1,1
+OTROS SERVICIOS,SEPELIOS,82,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Es excluyente,Sin público remoto,,1,2,1,3,5
+UNIFICADO,UNIFICADO GALPON,152,sinUso,,,,,,,sinUso,,,,,
+ENSEÑANZA,ENSEÑANZA,398,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+ENSEÑANZA,JARDIN DE INFANTES,433,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+SERVICOS SOCIALES Y DE SALUD,CENTRO DE SALUD,124,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+OTROS SERVICIOS,PEDICURIA,44,remotoMix,Infraestructura chica,Factible de manera eficiente,Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,2,5,5,4
+SERVICIO DE TRANSPORTE,REMISERIA,520,remotoNo,Infraestructura chica,Fundamental,Se traslada una persona,No requiere,Agrega mucho valor,Público remoto considerable,,2,4,4,4,5
+SERVICIOS EMPRESARIALES,CASA DE FOTOGRAFIA,202,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,3
+SERVICIOS EMPRESARIALES,INGENIERIA CIVIL,8,remotoFull,No requiere,Digital,No puede trasladarse,No requiere,Agrega algo de valor,Público remoto potencial,,3,2,3,1,0
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",POLICIA,46,servicioSi,,,,,,,servicioSi,,,,,
+LOTE,PLAZA,633,espacioPublico,,,,,,,espacioPublico,,,,,
+PLAZOLETA,PLAZOLETA,764,espacioPublico,,,,,,,espacioPublico,,,,,
+COMERCIO,PUESTO FLORES,485,remotoComplex,Herramientas manuales,"Factible, no eficiente",No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,2,4,5,3
+INTERMEDIACION FINANCIERA Y AUXILIARES,BANCO,845,remotoMix,Infraestructura chica,Digital,Opcional,No requiere,Agrega algo de valor,Público remoto considerable,,3,3,4,1,2
+COMERCIO,I FEMENINA,6098,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,GRANJA,532,remotoMix,Infraestructura considerable,Fundamental,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,I MASCULINA,1503,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,I,2951,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,CASA DE DEPORTES,48,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,ARTICULOS DE LIMPIEZA,330,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,No requiere,No agrega valor,Público remoto potencial,,3,5,3,3,2
+COMERCIO,BAZAR,704,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,2,3,4,4
+COMERCIO,LENCERIA,979,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,KIOSCO + BAR,21,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,FIAMBRERIA Y QUESERIA,229,remotoComplex,Maquinaria liviana,"Factible, no eficiente",No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,2,3,5,5
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,PANADERIA (ELABORACION),553,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto considerable,,2,4,5,4,5
+SERVICIO DE CORREO Y TELECOMUNICACIONES,CORREO,148,remotoComplex,Infraestructura considerable,Fundamental,Se traslada un bien,No requiere,Agrega algo de valor,Público remoto potencial,,1,2,3,4,3
+SERVICIO DE CORREO Y TELECOMUNICACIONES,LOCUTORIO + KIOSCO,82,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+HOTELERIA Y GASTRONOMIA,PIZZERIA,824,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,MARROQUINERIA,400,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,Presencial,Agrega algo de valor,Público remoto incipiente,,0,1,3,5,5
+COMERCIO,FARMACIA,1016,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,No requiere,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+INTERMEDIACION FINANCIERA Y AUXILIARES,SERVICIOS FINANCIEROS,93,remotoFull,Digital,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+SERVICIO DE CORREO Y TELECOMUNICACIONES,TELEFONIA CELULAR,433,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,No requiere,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,MAXIKIOSCO + LOCUTORIO,209,remotoNo,Maquinaria liviana,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega algo de valor,Sin público remoto,,0,1,3,3,4
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",LOTERIA,1199,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,Agrega mucho valor,Público remoto incipiente,,2,3,2,4,4
+COMERCIO,DIETETICA,592,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,CARNICERIA,650,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+COMERCIO,PESCADERIA,138,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+COMERCIO,VERDULERIA,1450,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+HOTELERIA Y GASTRONOMIA,CAFE BAR,959,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Sin público remoto,,1,3,4,3,4
+SERVICOS SOCIALES Y DE SALUD,ODONTOLOGIA,295,remotoNo,Maquinaria pesada,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+UNIFICADO,UNIFICADO EDU,712,remotoNo,Infraestructura considerable,"Factible, no eficiente",Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,5,6
+COMERCIO,"ALFOMBRAS, PAPELES PARA PAREDES",29,remotoHub,Infraestructura chica,Fundamental,No requiere,Presencial,No agrega valor,Público remoto incipiente,,2,4,3,4,4
+COMERCIO,MATERIALES PARA LA CONSTRUCCION,239,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+COMERCIO,AUTOSERVICIO DE COMESTIBLES,88,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+INTERMEDIACION FINANCIERA Y AUXILIARES,CAJERO AUTOMATICO,40,remotoNo,Maquinaria pesada,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+HOTELERIA Y GASTRONOMIA,ALBERGUE TRANSITORIO,171,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,LIBROS (VENTA),467,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,ACCESORIOS DE VESTIR,474,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+HOTELERIA Y GASTRONOMIA,RESTAURANTE,1699,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,ACCESORIOS PARA CELULARES,356,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,Agrega algo de valor,Público remoto considerable,,1,3,6,2,3
+COMERCIO,I FEMENINA Y NIÑOS,74,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+SERVICIO DE HOTELERIA Y RESTAURANTES,HOTEL,1033,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,ARTICULOS ELECTRONICOS,249,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,Agrega mucho valor,Público remoto considerable,,1,3,6,3,4
+SERVICIOS COMPLEMENTARIOS AL TRANSPORTE,AGENCIA DE VIAJES Y TURISMO,453,remotoFull,No requiere,Factible de manera eficiente,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,4,4,3,1,2
+HOTELERIA Y GASTRONOMIA,BAR + KIOSCO,21,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,2,3,4,4
+COMERCIO,COSMETICOS,68,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto considerable,,2,3,4,3,4
+SERVICOS SOCIALES Y DE SALUD,CENTRO MEDICO,512,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,MAQUINAS DE COSER,105,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,I BEBES Y NIÑOS,1483,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,CARTERAS,218,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,PERFUMERIA,445,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+SERVICIOS INMOBILIARIOS,INMOBILIARIA,2387,remotoFull,No requiere,Digital,No requiere,Presencial,Agrega algo de valor,Público remoto considerable,,4,2,3,1,2
+EDICION E IMPRESIÓN,EDITORIAL,55,remotoMix,Maquinaria pesada,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+SERVICIOS COMPLEMENTARIOS AL TRANSPORTE,ALQUILER COCHERAS MENSUALES,158,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada un bien,Opcional,Agrega algo de valor,Sin público remoto,,0,0,2,2,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,NEUMATICOS (VENTA),51,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Público remoto incipiente,,1,2,2,4,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,CERRAJERIA AUTOMOTOR,51,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+SERVICIOS EMPRESARIALES,SERVICIOS (OTROS),263,remotoFull,Digital,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,5,3,2,0,1
+SERVICIOS INMOBILIARIOS,ADMINISTRACION DE CONSORCIOS,38,remotoFull,No requiere,No se distribuyen,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,4,4,2,0,2
+COMERCIO,KIOSCO + LOTERIA,14,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,1
+FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICOS,FABRICA DE BOLSAS,16,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,GOMERIA,243,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+COMERCIO,VIDRIOS Y ESPEJOS,136,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,CONCESIONARIA DE AUTOMOVILES,481,remotoNo,Infraestructura considerable,No se distribuyen,No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,1,2,4,5
+FABRICACION DE PRODUCTOS METALICOS,ZINGUERIA,44,remotoHub,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,FERIA AMERICANA,127,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,2
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,"CAÑOS DE ESCAPE (COLOC., REPARAC.)",23,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,3
+SERVICIOS DE SEGUROS Y DE ADMINISTRACION DE FONDOS DE JUBILACIONES Y PENSIONES,SEGUROS DE AUTOS,38,remotoFull,No requiere,Factible de manera eficiente,No requiere,No requiere,Agrega mucho valor,Público remoto considerable,,4,4,3,2,3
+OTROS SERVICIOS,LAVADERO DE ROPA,1232,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,4
+HOTELERIA Y GASTRONOMIA,COMIDA RAPIDA,535,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,MINIMERCADO,131,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,REGALOS,1121,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,MAXIKIOSCO + BAR,37,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+SERVICIO DE CORREO Y TELECOMUNICACIONES,LOCUTORIO + INTERNET,209,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+SERVICIO DE CORREO Y TELECOMUNICACIONES,LOCUTORIO,240,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+COMERCIO,COMPOSTURA DE CALZADO,495,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto incipiente,,1,2,2,4,4
+COMERCIO,JUGUETERIA + LIBRERIA,32,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,PANADERIA (VENTA NO ELAB.),401,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,CARNICERIA + VERDULERIA,100,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,HELADERIA,722,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,INYECCION ELECTRONICA AUTOMOTOR,28,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+COMERCIO,ANTIGUEDADES,395,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,2,3,4,4
+COMERCIO,ALIMENTOS PARA MASCOTAS (VTA),473,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,CARNICERIA Y GRANJA,168,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+FABRICACION DE PRODUCTOS METALICOS,PRODUCTOS METALICOS,31,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto incipiente,,2,3,2,3,3
+UNIFICADO,U GARAGE,171,viviendaSi,,,,,,,viviendaSi,,,,,
+COMERCIO,FERIA DE ABASTECIMIENTO,4,remotoNo,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Sin público remoto,,1,2,3,3,4
+COMERCIO,KIOSCO + LOCUTORIO,139,remotoNo,Infraestructura chica,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega algo de valor,Sin público remoto,,0,1,3,3,4
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",GIMNASIO,646,remotoNo,Maquinaria pesada,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,1,2,4,6
+SERVICIOS EMPRESARIALES,SERVICIOS GRAFICOS,154,remotoHub,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,LIBRERIA + JUGUETERIA,87,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+OTROS SERVICIOS,INSTITUTO DE BELLEZA,25,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+COMERCIO,KIOSCO + REGALOS,24,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+HOTELERIA Y GASTRONOMIA,BAR Y PIZZERIA,71,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,TAPICERIA,336,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,3
+COMERCIO,SANITARIOS,340,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,2,4,4,3
+OTROS SERVICIOS,PELUQUERIA UNISEX,244,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+CONFECCION DE PRENDAS DE VESTIR,FABRICACION INDUMENTARIA,28,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+SERVICIO DE TRANSPORTE,FLETES,196,remotoHub,Maquinaria pesada,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,3
+COMERCIO,CORTINAS PARA ENROLLAR,111,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+SERVICOS SOCIALES Y DE SALUD,GERIATRICO,513,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+SERVICOS SOCIALES Y DE SALUD,VETERINARIA (ATENCION),802,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega mucho valor,Público remoto incipiente,,0,1,3,5,5
+COMERCIO,VERDULERIA + CARNICERIA,134,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+COMERCIO,VENTA DE AMOBLAMIENTOS DE COCINA,44,remotoComplex,Infraestructura considerable,Fundamental,No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,2,3,4,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,TALLER ELECTRONICA AUTOMOTORES,172,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,"MOTOS, REPUESTOS Y ACCESORIOS",220,remotoMix,Maquinaria pesada,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+SERVICOS SOCIALES Y DE SALUD,ASISTENCIA SOCIAL,53,servicioSi,,,,,,,servicioSi,,,,,
+COMERCIO,AIRE ACONDICIONADO (VENTA),70,remotoMix,Infraestructura chica,Fundamental,No puede trasladarse,Opcional,Agrega algo de valor,Público remoto considerable,,1,4,6,2,3
+COMERCIO,RELOJERIA Y JOYERIA,165,remotoComplex,Herramientas manuales,"Factible, no eficiente",Opcional,Presencial,No agrega valor,Público remoto incipiente,,1,2,3,4,3
+COMERCIO,VENTILADORES DE TECHO,23,remotoComplex,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,2,3,4,4
+COMERCIO,ABERTURAS,126,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,ESTACION DE SERVICIOS,288,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada un bien,No requiere,Agrega mucho valor,Sin público remoto,,1,1,1,3,5
+COMERCIO,REPARACION DE ART. ELECTRONICOS,170,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+"VENTA AL POR MAYOR DE MAQUINAS, EQUIPOS Y MATERIALES CONEXOS",EQUIPOS INFORMATICOS Y ELECTRONICOS,11,remotoMix,Infraestructura chica,Fundamental,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,I DEPORTIVA,401,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,ELECTRICIDAD DE AUTOMOTORES,72,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,COLOCACION CRISTALES AUTOMOTORES,10,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Público remoto incipiente,,1,2,2,4,4
+OTROS SERVICIOS,FUNERARIA,42,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Es excluyente,Sin público remoto,,1,2,1,3,5
+COMERCIO,VENTA DE CAFE,10,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,REPARACION DE ELECTRODOMESTICOS,277,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,REPARACION DE AUDIO Y VIDEO,206,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+SERVICOS SOCIALES Y DE SALUD,CONSULTORIO ODONTOLOGICO,193,remotoNo,Maquinaria liviana,No se distribuyen,Se traslada una persona,No requiere,Agrega mucho valor,Sin público remoto,,1,2,2,3,5
+SERVICIOS DE ASOCIACIONES,ASOCIACIONES (OTRAS),457,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,Es excluyente,Público remoto potencial,,3,2,1,2,2
+COMERCIO,MATERIALES ELECTRICOS,237,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,No agrega valor,Público remoto potencial,,3,4,2,3,2
+HOTELERIA Y GASTRONOMIA,RESTAURANTE - PARRILLA,92,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+HOTELERIA Y GASTRONOMIA,ROTISERIA,374,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+COMERCIO,CERRAJERIA,664,remotoHub,Herramientas manuales,"Factible, no eficiente",Opcional,No requiere,No agrega valor,Público remoto considerable,,3,4,3,2,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS","PRODUCTORA TV, CINE, VIDEO",26,remotoHub,Infraestructura considerable,Fundamental,No puede trasladarse,Opcional,No agrega valor,Público remoto considerable,,2,4,4,2,3
+ENSEÑANZA,COLEGIO PRIMARIO Y SECUNDARIO,198,remotoNo,Infraestructura considerable,Factible de manera eficiente,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,1,2,5,6
+COMERCIO POR MAYOR,MAQUINAS Y HERRAMIENTAS,192,remotoMix,Infraestructura considerable,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,ARTESANIAS,82,remotoHub,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,1
+SERVICIOS INMOBILIARIOS,SALON DE EVENTOS,250,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,MAXIKIOSCO + LIBRERIA,79,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",TEATRO,103,remotoComplex,Infraestructura chica,"Factible, no eficiente",Performance,Opcional,Es excluyente,Público remoto incipiente,,0,1,2,5,5
+COMERCIO,ELECTRODOMESTICOS,187,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CLUB,435,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+ELABORACION DE PRODUCTOS ALIMENTICIOS NCP,ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,39,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+COMERCIO POR MAYOR,EQUIP. GASTRONOMICO,66,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+HOTELERIA Y GASTRONOMIA,CONFITERIA BAR,36,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,2,3,4,4
+SERVICIOS DE ASOCIACIONES,ACTIVIDADES RELIGIOSAS,431,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+SERVICIOS DE SEGUROS Y DE ADMINISTRACION DE FONDOS DE JUBILACIONES Y PENSIONES,MEDICINA PREPAGA,69,remotoFull,Infraestructura chica,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,4,4,3,1,2
+COMERCIO,BICICLETAS (REPARACION),81,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",MUSEO,61,remotoNo,Infraestructura considerable,No se distribuyen,Performance,,Es excluyente,Sin público remoto,,0,0,0,3,5
+SERVICIOS EMPRESARIALES,AGENCIA DE EMPLEO,20,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,No agrega valor,Público remoto potencial,,4,3,1,1,1
+OTROS SERVICIOS,PODOLOGIA,107,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+COMERCIO,HOBIES,8,remotoNo,Herramientas manuales,No se distribuyen,No requiere,Presencial,Es excluyente,Sin público remoto,,1,2,2,3,4
+COMERCIO,CERRAMIENTOS,71,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Presencial,Agrega algo de valor,Público remoto potencial,,0,2,6,4,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,VENTA DE AUTOMOTORES USADOS,92,remotoComplex,Infraestructura considerable,"Factible, no eficiente",No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,1,2,5,5
+"ALQUILER DE MAQUINARIA Y EQUIPO, ALQUILER DE EFECTOS PERSONALES",VIDEO CLUB,110,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,Agrega mucho valor,Público remoto potencial,,2,3,3,4,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",ESTUDIO DE TV,19,remotoFull,Infraestructura considerable,No se distribuyen,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,4,1,1,3
+COMERCIO,INSUMOS PC,563,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,POLARIZADO DE VIDRIOS,41,remotoMix,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega algo de valor,Público remoto potencial,,0,1,4,4,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",BIBLIOTECA,62,servicioSi,,,,,,,servicioSi,,,,,
+COMERCIO,INSTRUMENTOS MUSICALES,125,remotoComplex,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,3,4,5,5
+EDIFICIOS,DEPARTAMENTOS,1852,viviendaSi,,,,,,,viviendaSi,,,,,
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,VENTA DE AUTOMOTORES,108,remotoComplex,Infraestructura considerable,"Factible, no eficiente",No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,1,2,5,5
+COMERCIO,DIARIOS Y REVISTAS (VENTA),324,remotoMix,Herramientas manuales,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,2
+SERVICIOS DE ASOCIACIONES,LOCAL PARTIDARIO,328,asociacionesOtras,,,,,,,asociacionesOtras,,,,,
+SERVICIOS EMPRESARIALES,FOTOCOPIAS,252,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,4
+COMERCIO,OBRAS DE ARTE,27,remotoNo,Infraestructura considerable,Factible de manera eficiente,Opcional,Presencial,Agrega mucho valor,Sin público remoto,,0,1,4,4,5
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,REPARACION DE MOTOS,36,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,4
+SERVICIOS DE SEGUROS Y DE ADMINISTRACION DE FONDOS DE JUBILACIONES Y PENSIONES,ART,112,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,4,3,2,0,2
+COMERCIO,QUESERIA,82,remotoMix,Maquinaria liviana,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,2,3,3,3
+SERVICIOS DE SEGUROS Y DE ADMINISTRACION DE FONDOS DE JUBILACIONES Y PENSIONES,SEGUROS,247,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,4,3,2,0,2
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",OBRA SOCIAL,120,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+COMERCIO,FARMACIA Y PERFUMERIA,226,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,JUGUETERIA,464,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,PAN Y FACTURAS (VENTA NO ELAB.),168,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,VINOS (VENTA),254,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,GALERIA DE ARTE,122,remotoNo,Infraestructura considerable,Factible de manera eficiente,Opcional,Opcional,Es excluyente,Sin público remoto,,0,1,3,3,4
+UNIFICADO,UNIFICADO EP,120,espacioPublico,,,,,,,espacioPublico,,,,,
+COMERCIO,MAXIKIOSCO + INTERNET,30,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,Opcional,Agrega algo de valor,Sin público remoto,,0,1,3,2,4
+COMERCIO,OPTICA Y FOTOGRAFIA,27,remotoHub,Herramientas manuales,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto incipiente,,2,4,3,4,3
+COMERCIO,COLCHONES (VENTA),231,remotoComplex,Infraestructura considerable,Fundamental,No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,2,3,4,4
+SERVICIO DE CORREO Y TELECOMUNICACIONES,LOCUTORIO + INTERNET + KIOSCO,31,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,Opcional,Agrega algo de valor,Sin público remoto,,0,1,3,2,4
+COMERCIO,PLATERIA,14,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto incipiente,,2,4,3,3,3
+ENSEÑANZA,COLEGIO PRIMARIO,325,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,5,6
+FABRICACION DE PRODUCTOS MINERALES NO METALICOS,VIDRIERIA,282,remotoMix,Infraestructura chica,Fundamental,Opcional,Opcional,No agrega valor,Público remoto incipiente,,1,3,4,3,3
+COMERCIO,PAÑALERA,117,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+EDICION E IMPRESIÓN,AVISOS CLASIFICADOS,59,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto considerable,,6,4,1,0,1
+ENSEÑANZA,ESCUELA DE MUSICA,43,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,5,6
+HOTELERIA Y GASTRONOMIA,SANDWICHERIA,113,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+COMERCIO,ILUMINACION,314,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+SERVICIOS EMPRESARIALES,DISEÑO GRAFICO,100,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+SERVICIOS EMPRESARIALES,DECORACION DE INTERIORES,85,remotoMix,Herramientas manuales,Fundamental,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,2
+OTROS SERVICIOS,TINTORERIA,490,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,3
+COMERCIO,BLANCO,327,sinUso,,,,,,,sinUso,,,,,
+COMERCIO,PISOS DE MADERA (VTA Y COLOCACION),97,remotoMix,Infraestructura considerable,Fundamental,No puede trasladarse,Opcional,Agrega algo de valor,Público remoto considerable,,1,3,5,2,3
+SERVICOS SOCIALES Y DE SALUD,PRACTICAS MEDICAS,11,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+SERVICIOS DE ASOCIACIONES,CENTRO CULTURAL,267,remotoNo,Infraestructura chica,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,1,2,3,5
+COMERCIO,RELOJERIA,328,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Presencial,No agrega valor,Público remoto incipiente,,1,2,2,5,5
+FABRICACION DE MAQUINARIA Y EQUIPO NCP,MATAFUEGOS,49,remotoHub,Infraestructura chica,Factible de manera eficiente,Se traslada un bien,No requiere,No agrega valor,Público remoto considerable,,3,5,3,3,4
+COMERCIO,ARTICULOS PARA EL HOGAR,152,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,ALFOMBRAS,66,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,3,4,4,4
+ENSEÑANZA,ENSEÑANZA - TERCIARIO,116,remotoComplex,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,0,2,5,5
+COMERCIO,ARREGLO DE ROPA,313,remotoComplex,Maquinaria liviana,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto incipiente,,1,2,2,4,4
+"FABRICACION DE INSTRUMENTOS MEDICOS, OPTICOS Y DE PRECISION; FABRICACION DE RELOJES",FABRICACION DE INSTRUMENTOS MEDICOS Y RELOJES,10,remotoHub,Maquinaria pesada,Fundamental,No requiere,Presencial,No agrega valor,Público remoto considerable,,3,5,4,3,4
+COMERCIO,ARTICULOS DE CUERO,99,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,VERDULERIA + ALMACEN,40,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+SERVICIO DE HOTELERIA Y RESTAURANTES,RESIDENCIA,35,viviendaSi,,,,,,,viviendaSi,,,,,
+SERVICIO DE CORREO Y TELECOMUNICACIONES,LOCUTORIO + LOTERIA,16,remotoNo,Maquinaria liviana,"Factible, no eficiente",Se traslada una persona,No requiere,Agrega mucho valor,Sin público remoto,,1,2,2,4,5
+SERVICIOS INMOBILIARIOS,SALON DE FIESTAS,416,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,VAJILLA DE PLATA Y CRISTALERIA,6,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+COMERCIO,BICICLETAS (VENTA),163,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Presencial,Agrega algo de valor,Público remoto potencial,,0,1,5,4,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",DISTRIBUIDORA DE PELICULAS,4,remotoHub,Infraestructura chica,Fundamental,No requiere,No requiere,No agrega valor,Público remoto incipiente,,3,5,2,3,3
+HOTELERIA Y GASTRONOMIA,CONFITERIA,180,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,ARTICULOS USADOS,69,remotoComplex,Infraestructura chica,Factible de manera eficiente,Se traslada un bien,Presencial,No agrega valor,Público remoto incipiente,,1,3,3,5,5
+FABRICACION DE PRODUCTOS METALICOS,TORNERIA MECANICA,28,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Sin público remoto,,2,3,1,3,4
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,"TORTAS, MASAS ELABORACION Y VENTA)",35,remotoHub,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,HERRAJES,57,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto incipiente,,2,4,3,3,3
+COMERCIO,MUEBLES PARA OFICINA,41,remotoMix,Infraestructura considerable,Fundamental,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+PRODUCTOS DE MADERA,MADERERA,109,remotoComplex,Infraestructura considerable,Fundamental,No requiere,Presencial,No agrega valor,Público remoto incipiente,,2,3,2,4,4
+COMERCIO,ARTICULOS DE JARDINERIA,15,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,FUEGOS ARTIFICIALES,19,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,No agrega valor,Público remoto incipiente,,3,4,1,3,3
+OTROS SERVICIOS,BARBERIA,5,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,No requiere,Agrega mucho valor,Público remoto potencial,,1,2,3,5,3
+OTROS SERVICIOS,CENTRO DE ESTETICA CORPORAL,382,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,No requiere,Agrega mucho valor,Público remoto incipiente,,1,2,2,5,4
+COMERCIO,MUEBLES + ART. DE DECORACION (VENTA),92,remotoMix,Infraestructura considerable,Fundamental,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,SERVICIOS DE COMPUTACION,71,remotoFull,No requiere,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto considerable,,4,3,1,2,3
+SERVICOS SOCIALES Y DE SALUD,KINESIOLOGIA,45,remotoComplex,Maquinaria liviana,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,1,3,5,5
+COMERCIO,ARTICULOS DEPORTIVOS,91,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+HOTELERIA Y GASTRONOMIA,PARRILLA - RESTAURANTE,90,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,BOMBONES (ELABORACION Y VENTA),47,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,CHAPA Y PINTURA AUTOMOTORES,197,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega algo de valor,Público remoto incipiente,,0,1,3,4,4
+COMERCIO,CAJAS DE CARTON (VENTA),17,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,No requiere,No agrega valor,Público remoto incipiente,,3,4,1,3,3
+SERVICIOS EMPRESARIALES,SERVICIO HIGIENE - LIMPIEZA,24,remotoHub,Infraestructura chica,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,3
+COMERCIO,FIAMBRERIA,258,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+RECICLAMIENTO DE DESPERDICIOS Y DESECHOS NO METALICOS,RECICLADO DE PAPEL Y DERIVADOS,10,remotoNo,Maquinaria pesada,No se distribuyen,Se traslada un bien,Opcional,No agrega valor,Sin público remoto,,1,2,2,2,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,BATERIAS (AUTOMOTORES),56,remotoHub,Infraestructura chica,Factible de manera eficiente,Opcional,No requiere,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,VENTA DE ARTICULOS SANITARIOS,12,remotoMix,Infraestructura considerable,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICOS SOCIALES Y DE SALUD,LABORATORIO ANALISIS CLINICOS,76,remotoNo,Maquinaria liviana,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+COMERCIO,REPARACION CELULARES,27,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,ARREGLO INSTRUMENTOS MUSICALES,4,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Presencial,No agrega valor,Público remoto potencial,,1,2,3,5,3
+COMERCIO,LIBRERIA + KIOSCO,79,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+PRODUCTOS DE MADERA,TALLER DE MARCOS,87,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+CONFECCION DE PRENDAS DE VESTIR,SASTRERIA,152,remotoComplex,Infraestructura chica,Factible de manera eficiente,Se traslada una persona,Presencial,Agrega algo de valor,Público remoto incipiente,,0,2,4,5,5
+SERVICIOS DE ASOCIACIONES,ASOCIACION SOCIAL Y CULTURAL,110,remotoComplex,No requiere,No se distribuyen,Performance,No requiere,Es excluyente,Público remoto potencial,,2,1,1,3,3
+COMERCIO,PAPELERIA,246,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto considerable,,3,4,3,3,4
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",CARPINTERIA,132,remotoMix,Maquinaria pesada,Fundamental,Opcional,Presencial,No agrega valor,Público remoto considerable,,2,4,5,3,4
+HOTELERIA Y GASTRONOMIA,PIZZAS PARA LLEVAR,126,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICOS SOCIALES Y DE SALUD,CLINICA MEDICA,63,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+OTROS SERVICIOS,PELUQUERIA CABALLEROS,135,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Presencial,Agrega mucho valor,Público remoto potencial,,0,1,4,6,4
+COMERCIO,VIVERO,119,remotoComplex,Infraestructura considerable,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,2,4,5,4
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",ORGANISMOS PUBLICOS NACIONALES,306,servicioSi,,,,,,,servicioSi,,,,,
+ELABORACIN DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,ELAB. DE HARINAS,3,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+COMERCIO,DISQUERIA,150,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,2,3,4,4
+COMERCIO,GRANJA + FIAMBRERIA,18,remotoMix,Maquinaria liviana,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,TAPICERIA PARA AUTOS,38,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Presencial,No agrega valor,Público remoto potencial,,1,2,3,5,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CANCHAS DE PADDLE,16,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+OTROS SERVICIOS,TATUAJES,191,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Presencial,Agrega mucho valor,Público remoto potencial,,0,1,4,6,4
+COMERCIO,BIJOUTERIE,303,remotoComplex,Herramientas manuales,"Factible, no eficiente",No requiere,Presencial,No agrega valor,Público remoto incipiente,,2,3,2,4,3
+FABRICACION DE PRODUCTOS MINERALES NO METALICOS,ELABORACION DE CEMENTO,1,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,ELABORACION DE HIELO,2,remotoHub,Maquinaria pesada,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",FAB. JUEGOS Y JUGUETES,3,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,MAXIKIOSCO + ALMACEN,87,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,1
+SERVICOS SOCIALES Y DE SALUD,REHABILITACION FISICA,6,remotoComplex,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,0,2,5,5
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CANCHAS DE FUTBOL,162,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,MAQUETAS DE TELGOPOR,5,remotoComplex,Herramientas manuales,"Factible, no eficiente",No requiere,Presencial,No agrega valor,Público remoto incipiente,,2,3,2,4,3
+COMERCIO,JOYERIA,546,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,2,3,4,4
+COMERCIO,SANTERIA,161,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,2,3,4,4
+OTROS SERVICIOS,DEPILACION,192,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",FABRICACION DE SILLONES,1,remotoMix,Maquinaria pesada,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+ENSEÑANZA,APOYO ESCOLAR,12,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,1,3,6,5
+FABRICACION DE SUSTANCIAS Y PRODUCTOS QUIMICOS,FABRICACION DE MEDICAMENTOS,31,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+FABRICACION DE PAPEL Y PRODUCTOS DE PAPEL,FABRICACION DE PAPEL Y SUS PROD.,30,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,LAVADERO DE AUTOS + KIOSCO,31,remotoNo,Infraestructura considerable,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega mucho valor,Sin público remoto,,0,0,2,4,5
+COMERCIO,COMPRA VENTA DE ORO,48,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Presencial,Agrega algo de valor,Sin público remoto,,0,1,4,3,4
+COMERCIO,KIOSCO + LIBRERIA,118,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,MAQUINAS Y EQUIPOS PARA OFICINAS,62,remotoMix,Infraestructura chica,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+ENSEÑANZA,TALLER DE VITREUX,6,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,1,3,3,5
+OTROS SERVICIOS,VELATORIO,40,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+ENSEÑANZA,COLEGIO SECUNDARIO,106,remotoNo,Infraestructura considerable,Factible de manera eficiente,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,1,2,5,6
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,DESARROLLO DE SISTEMAS COMPUTACION,2,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+FABRICACION DE MAQUINARIA Y EQUIPO NCP,FABRICACION DE MAQUINARIA,25,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,PRODUCTOS QUIMICOS,13,remotoHub,Infraestructura chica,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+COMERCIO POR MAYOR,MAYORISTA MATERIALES P/LA CONSTRUCCION,8,remotoHub,Infraestructura considerable,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,5,2,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,TALLER RECTIFICACION AUTOMOTORES,45,remotoNo,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+COMERCIO,AVES Y HUEVOS (VENTA),2,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+OTROS,OTROS,162,sinUso,,,,,,,sinUso,,,,,
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,AUTORADIO (COLOCACION),13,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Público remoto potencial,,1,2,3,4,2
+OTROS SERVICIOS,SALON DE BELLEZA,329,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,1,3,4,4
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,INTERNET,56,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Público remoto considerable,,2,3,3,2,4
+COMERCIO,GOLOSINAS,105,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,INTERNET + LOCUTORIO,31,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+COMERCIO,COTILLON,311,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,3,5,5,4
+COMERCIO,PLANTAS,37,remotoComplex,Infraestructura considerable,Factible de manera eficiente,No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,2,4,5,4
+FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICOS,ACRILICOS,28,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,ALMACEN + KIOSCO,105,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICIOS EMPRESARIALES,ESTUDIO DE GRABACION,4,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Agrega mucho valor,Sin público remoto,,0,0,2,4,6
+OTROS SERVICIOS,SOLARIUM,79,remotoNo,Maquinaria pesada,No se distribuyen,Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,1,3,3,5
+SERVICIO DE HOTELERIA Y RESTAURANTES,HOTEL FAMILIAR,537,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+SERVICOS SOCIALES Y DE SALUD,HOSPITAL,70,servicioSi,,,,,,,servicioSi,,,,,
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,RELOJES PARA TAXI,17,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,Agrega algo de valor,Público remoto potencial,,0,1,5,3,1
+COMERCIO,CUADROS (VENTA),63,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,3,4,4,4
+COMERCIO,"PILAS, BATERIAS",11,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+HOTELERIA Y GASTRONOMIA,EMPANADAS PARA LLEVAR,203,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,CERAMICAS,67,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+ENSEÑANZA,ESCUELA DE DANZAS,157,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,PRODUCTOS VETERINARIOS,104,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+SERVICIOS EMPRESARIALES,FUMIGACIONES,42,remotoHub,Infraestructura chica,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+FABRICACION DE PRODUCTOS TEXTILES,FABRICACION DE ARTICULOS TEXTILES,52,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,AUDIO Y VIDEO (VENTA),93,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+SERVICIO DE CORREO Y TELECOMUNICACIONES,MENSAJERIA,17,remotoHub,Infraestructura chica,Fundamental,Se traslada un bien,No requiere,No agrega valor,Público remoto considerable,,3,5,3,3,4
+SERVICIOS EMPRESARIALES,EQUIPOS AUDIO Y VIDEO (ALQUILER),4,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,3,4,2,3
+SERVICIOS EMPRESARIALES,COBRO DE FACTURAS,105,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,AUTORADIO (VENTA),5,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+"ALQUILER DE MAQUINARIA Y EQUIPO, ALQUILER DE EFECTOS PERSONALES",ALQUILER DE DIFRACES,10,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega mucho valor,Público remoto potencial,,1,2,4,5,4
+COMERCIO,ARTICULOS PARA BEBES,29,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+SERVICOS SOCIALES Y DE SALUD,CONSULTORIO MEDICO,92,remotoNo,Maquinaria liviana,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,1,2,4,6
+INSTALACIONES PARA EDIFICIOS Y OBRAS DE INGENIERIA CIVIL,PLOMERIA,52,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+COMERCIO,REPARACION DE VIDEO,5,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+FABRICACION DE PRODUCTOS METALICOS,ELECTROMECANICA,32,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+COMERCIO,ART. PARA FAB. VELAS Y JABONES,7,remotoHub,Infraestructura chica,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,6,3,2,3
+ENSEÑANZA,ENSEÑANZA DE IDIOMAS,210,remotoComplex,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,0,2,5,5
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,AUTORADIOS (VENTA Y COLOCACION),14,remotoMix,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega algo de valor,Público remoto potencial,,0,1,4,4,3
+COMERCIO,VELAS,21,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,PINTURERIA + FERRETERIA,9,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,MAXIKIOSCO + LOTERIA,14,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,1
+SERVICIOS EMPRESARIALES,ESTUDIO CONTABLE,78,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+INSTALACIONES PARA EDIFICIOS Y OBRAS DE INGENIERIA CIVIL,INTALACIONES PARA EDIFICIOS,3,remotoHub,Infraestructura chica,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,3
+COMERCIO,BLANCO Y MANTELERIA,51,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,ARTICULOS ORTOPEDICOS,138,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto potencial,,2,4,4,4,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",VIDEO JUEGOS,54,remotoMix,Infraestructura chica,Factible de manera eficiente,Performance,Opcional,Agrega mucho valor,Público remoto potencial,,0,2,5,5,4
+VENTA AL POR MAYOR DE MERCANCIAS,COMERCIO POR MAYOR,17,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+COMERCIO,"REPARACION RADIO, TV",57,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,MERCERIA + LENCERIA,30,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Presencial,No agrega valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,CAMPING (VENTA DE ARTS.),47,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+SERVICIOS DE ASOCIACIONES,SINAGOGA,26,remotoNo,Infraestructura considerable,No se distribuyen,Performance,No requiere,Es excluyente,Sin público remoto,,1,1,0,3,5
+COMERCIO,LIBRERIA ARTISTICA,70,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,PC E INSUMOS PC,192,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CAMPO DE DEPORTES,50,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,UNIFORMES ESCOLARES,47,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,3,5,4,3
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",BOMBEROS,16,servicioSi,,,,,,,servicioSi,,,,,
+SERVICIOS DE ASOCIACIONES,ASOCIACIONES PROFESIONALES,45,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,Es excluyente,Público remoto potencial,,3,2,1,2,2
+COMERCIO,DESPENSA,67,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,ART DE DECORACION,1,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,ETIQUETAS,9,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,ARTICULOS DE DANZA,3,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto potencial,,2,4,4,4,3
+COMERCIO,BANDERAS,8,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto potencial,,2,4,4,4,3
+SERVICIO DE CORREO Y TELECOMUNICACIONES,LOCUTORIO + CORREO,11,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+COMERCIO,AZULEJOS,28,remotoHub,Infraestructura chica,Fundamental,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,FIAMBRERIA + KIOSCO,6,remotoComplex,Maquinaria liviana,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,2,3,4,4
+SERVICIOS EMPRESARIALES,ESTUDIO DE ARQUITECTURA,42,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+COMERCIO,SEX SHOP,37,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+OTROS SERVICIOS,PELUQUERIA NIÑOS,25,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+OTROS SERVICIOS,SPA,55,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,AIRE ACONDICIONADO (VENTA Y COLOCACION),11,remotoHub,Maquinaria pesada,"Factible, no eficiente",No puede trasladarse,No requiere,Agrega algo de valor,Público remoto considerable,,2,4,4,2,3
+SERVICIOS EMPRESARIALES,BORDADOS,5,remotoMix,Maquinaria liviana,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,AIRE ACONDICIONADO (VENTA Y REPARACION),14,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+COMERCIO,FIAMBRERIA + GRANJA,7,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,3,4,4,4
+ENSEÑANZA,ESCUELA DE ARTE,104,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,5,6
+OTROS SERVICIOS,MASAJES,26,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Es excluyente,Público remoto potencial,,0,1,3,5,3
+ENSEÑANZA,ESCUELA DE ARTES VISUALES,7,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,5,6
+COMERCIO,LANAS E HILADOS,71,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+SERVICIOS EMPRESARIALES,ESTAMPADOS,22,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto potencial,,1,2,4,3,1
+PRODUCTOS DE MADERA,MARCOS DE MADERA,34,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto potencial,,1,2,4,3,1
+COMERCIO,REPARACION DE HELADERAS,48,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+HOTELERIA Y GASTRONOMIA,BAR Y CONFITERIA,74,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,3,4,4,4
+COMERCIO,BEBIDAS ALCOHOLICAS (VENTA),38,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,PESCA (VENTA DE ARTS.),30,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,BOMBONES Y AFINES (VENTA NO ELAB.),40,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,3,4,2,3
+COMERCIO,BEBIDAS SIN ALCOHOL (VENTA),5,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,ART. SEGURIDAD INDUSTRIAL,20,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+COMERCIO,REPARACION PC,82,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,INSUMOS PC E INTERNET,81,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto potencial,,1,3,5,3,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",LOTERIA + KIOSCO,18,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+ENSEÑANZA,ARTES MARCIALES,42,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,ESCALERAS,5,remotoHub,Infraestructura chica,Fundamental,No requiere,Opcional,No agrega valor,Público remoto incipiente,,2,4,3,3,3
+COMERCIO,RESTAURACIONES,6,remotoMix,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega algo de valor,Público remoto potencial,,0,1,4,4,2
+FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICOS,FABRICA DE ART.DE PLASTICO,26,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+TERRENOS FERROVIARIOS,TERRENOS FERROVIARIOS,52,espacioPublico,,,,,,,espacioPublico,,,,,
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,EQUIPOS GNC (COLOCACION Y VENTA),20,remotoComplex,Maquinaria pesada,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Público remoto potencial,,1,2,3,4,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CANCHAS DE TENIS,39,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,VERDULERIA + GRANJA,14,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICOS SOCIALES Y DE SALUD,"ACUPUNTURA, DIGITOPUNTURA",5,remotoComplex,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,Es excluyente,Público remoto potencial,,1,2,3,4,2
+COMERCIO,ACCESORIOS DE PELUQUERIA,41,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,GRANJA + VERDULERIA,18,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,ALMACEN + CARNICERIA,23,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,ARTICULOS ODONTOLOGICOS,39,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+OTROS SERVICIOS,PELUQUERIA DAMAS,148,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Presencial,Agrega mucho valor,Público remoto potencial,,0,1,4,6,4
+ENSEÑANZA,ESCUELA DE TEATRO,23,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,EQUIPOS DE AUDIO Y TELEVISION (VENTA),5,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto potencial,,1,3,5,4,3
+SERVICOS SOCIALES Y DE SALUD,CENTRO DE REHABILITACION,29,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,5,6
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,DEPOSITO DE AUTOMOTORES,53,sinUso,,,,,,,sinUso,,,,,
+SERVICIOS EMPRESARIALES,GRABADO SOBRE METALES,6,remotoMix,Maquinaria liviana,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Sin público remoto,,1,2,3,2,3
+SERVICIOS DE ASOCIACIONES,ASOCIACION DEPORTIVA Y SOCIAL,39,remotoComplex,No requiere,No se distribuyen,Performance,Presencial,No agrega valor,Público remoto potencial,,2,1,2,3,3
+ELABORACIN DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,FABRICA DE BEBIDAS SIN ALCOHOL,18,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,INTERNET E INSUMOS PC,2,remotoHub,Infraestructura chica,Factible de manera eficiente,Opcional,No requiere,No agrega valor,Público remoto potencial,,2,4,4,3,2
+SERVICIOS EMPRESARIALES,SEGURIDAD PRIVADA,19,remotoHub,Infraestructura considerable,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,5,3,2,3
+COMERCIO,REVESTIMIENTOS,25,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+OTROS SERVICIOS,DEPILACION Y PEDICURIA,49,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto potencial,,0,1,4,5,3
+COMERCIO,TELEFONIA,99,remotoHub,Infraestructura considerable,Fundamental,No requiere,No requiere,Agrega mucho valor,Público remoto considerable,,3,4,3,3,4
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",DISCOTECA,85,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,LENCERIA + MERCERIA,25,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,RODADOS PARA NIÑOS,11,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,RELOJES Y JOYAS (REPARACION),72,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CINE,34,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,TABAQUERIA,20,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,ARTICULOS REGIONALES,59,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+SERVICOS SOCIALES Y DE SALUD,CONSULTORIO OFTALMOLOGICO,17,remotoNo,Maquinaria liviana,No se distribuyen,Se traslada una persona,Presencial,Agrega algo de valor,Sin público remoto,,0,1,3,3,5
+SERVICIOS EMPRESARIALES,ESCRIBANIA,55,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+PRODUCTOS DE MADERA,"RESTAURACION, PATINADO DE MUEBLES",8,remotoMix,Herramientas manuales,Fundamental,Se traslada un bien,Opcional,Agrega algo de valor,Público remoto potencial,,0,2,5,4,2
+SERVICIO DE TRANSPORTE,TRANSPORTE FERROVIARO,7,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,0,2,3,5
+OTROS SERVICIOS,CAMAS SOLARES,8,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,0,2,3,5
+COMERCIO,ARMERIA,27,remotoNo,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,No agrega valor,Sin público remoto,,2,3,2,3,4
+COMERCIO,PASTILLAS PARA DEPORTES,6,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,PERFUMERIA Y ARTICULOS DE LIMPIEZA,51,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,FERRETERIA + PINTURERIA,61,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+HOTELERIA Y GASTRONOMIA,SERVICIO DE CATTERING,23,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+COMERCIO,GALLETITERIA,26,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,PLASTIFICADO DE PISOS,20,remotoHub,Maquinaria liviana,Fundamental,No puede trasladarse,Opcional,No agrega valor,Público remoto considerable,,2,5,5,2,3
+"FABRICACION DE ARTICULOS DE MARROQUINERIA, TALABARTERIA Y CALZADO Y DE SUS PARTES",FABRICA DE CALZADO,13,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+OTROS SERVICIOS,TAROT,17,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,No requiere,Agrega mucho valor,Público remoto potencial,,1,2,3,5,3
+CALLE,CALLE,46,espacioPublico,,,,,,,espacioPublico,,,,,
+SERVICIOS DE ASOCIACIONES,SINDICATO,195,asociacionesOtras,,,,,,,asociacionesOtras,,,,,
+SERVICIOS EMPRESARIALES,CONSULTORA,5,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+COMERCIO,TAPIZADOS (REPARACION),11,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,2
+COMERCIO,KIOSCO + INTERNET,15,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega mucho valor,Sin público remoto,,1,2,2,3,5
+COMERCIO,REPARACION DE LAVARROPAS,20,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+SERVICIOS EMPRESARIALES,JARDINERIA,6,remotoHub,Infraestructura considerable,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,5,3,2,3
+EDIFICIOS,CLAUSURADO,5,sinUso,,,,,,,sinUso,,,,,
+COMERCIO,CARNICERIA + ALMACEN,17,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,3,4,3,3
+ENSEÑANZA,ENSEÑANZA - UNIVERSIDAD,152,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,5,6
+COMERCIO POR MAYOR,MAYORISTA ARTICULOS IMPORTADOS,11,remotoHub,Infraestructura considerable,Fundamental,No requiere,Presencial,No agrega valor,Público remoto considerable,,3,4,3,3,4
+SERVICIOS EMPRESARIALES,GRABADO DE JOYAS,35,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Presencial,No agrega valor,Público remoto incipiente,,1,2,2,5,4
+COMERCIO,"ART. PLOMERIA , GAS",36,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+COMERCIO,REPARACION CONTROL REMOTO,28,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,PRODUCTOS MEDICOS (VENTA),14,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto potencial,,2,4,4,4,3
+COMERCIO,SAHUMERIOS,8,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,3
+COMERCIO,MIEL DE ABEJAS (VENTA),9,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+FABRICACIN DE TEJIDOS DE PUNTO,FABRICACION DE TEJIDOS DE PUNTO,5,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICIOS DE ASOCIACIONES,ASOCIACIONES EMPRESARIALES Y DE EMPLEADORES,55,remotoFull,No requiere,No se distribuyen,No requiere,No requiere,No agrega valor,Público remoto potencial,,4,3,1,1,1
+COMERCIO,PINTURERIA ARTISTICA,6,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",PELOTERO,3,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CALESITA,3,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+SERVICOS SOCIALES Y DE SALUD,SANATORIO,26,servicioSi,,,,,,,servicioSi,,,,,
+VENTA AL POR MAYOR DE ARTICULOS DE USO DOMESTICO O PERSONAL,VENTA POR MAYOR DE ART. USO DOMESTICO,5,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",FABRICA DE COLCHONES,14,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+ENSEÑANZA,ESCUELA DE MUSICA Y ARTE,12,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+INTERMEDIACION FINANCIERA Y AUXILIARES,GIROS DE DINERO,42,remotoNo,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega algo de valor,Sin público remoto,,0,1,3,3,4
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,VENTA DE AUTOMOTORES NUEVOS,29,remotoNo,Infraestructura considerable,No se distribuyen,No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,1,2,4,5
+ENSEÑANZA,ENSEÑANZA DE INFORMATICA,20,remotoComplex,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,0,2,5,5
+COMERCIO,SEDERIA,3,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,3,5,4,3
+COMERCIO,REPARACION TELEFONOS,13,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,PIELES (VENTA),12,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,3,5,4,3
+SERVICIOS EMPRESARIALES,INFRAESTRUCTURA INFORMATICA,3,remotoHub,Infraestructura chica,Fundamental,No requiere,No requiere,No agrega valor,Público remoto potencial,,3,5,3,3,2
+COMERCIO,BUCEO (VENTA DE ARTS.),3,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO POR MAYOR,HELADERAS Y BALANZAS COMERCIALES (VTA),11,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+COMERCIO,ALMACEN + MAXIKIOSCO,10,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,1
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,ELAB. PROD. LACTEOS,8,remotoHub,Infraestructura considerable,Fundamental,No requiere,No requiere,No agrega valor,Público remoto considerable,,4,5,2,2,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",LOTERIA + LOCUTORIO,10,remotoNo,Maquinaria liviana,"Factible, no eficiente",Se traslada una persona,No requiere,Agrega mucho valor,Sin público remoto,,1,2,2,4,5
+COMERCIO,"REPUESTOS PARA COCINAS, CALEFONES",29,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto potencial,,1,2,4,3,2
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,FRIGORIFICO,68,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",AGENCIA AFIP,14,servicioSi,,,,,,,servicioSi,,,,,
+COMERCIO,PARAGUAS,4,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+FABRICACION DE PRODUCTOS TEXTILES,FAB. DE HILOS DE COSER,2,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+FABRICACION DE MAQUINARIA Y APARATOS ELECTRICOS NCP,FABRICACION DE ART. ELECTRICOS,13,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+FABRICACION DE APARATOS DE USO DOMESTICO NCP,FAB. DE HELADERAS,4,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+HOTELERIA Y GASTRONOMIA,BAR + INTERNET,4,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,1,3,3,5
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,INTERNET + LOTERIA,2,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+SERVICOS SOCIALES Y DE SALUD,CLINICA PSIQUIATRICA,11,servicioSi,,,,,,,servicioSi,,,,,
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",SALON DE BAILE,18,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+SERVICIOS EMPRESARIALES,RECARGA DE CARTUCHOS,20,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto potencial,,2,3,2,4,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",RADIO,22,remotoNo,Infraestructura considerable,No se distribuyen,No requiere,No requiere,Agrega mucho valor,Público remoto considerable,,3,3,2,2,4
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,HELADERIA + CAFE,4,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+SERVICOS SOCIALES Y DE SALUD,TRAUMATOLOGIA,1,remotoComplex,Infraestructura considerable,"Factible, no eficiente",Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,0,1,6,6
+COMERCIO,SERVICIOS GENERALES,12,remotoFull,Digital,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,5,3,2,0,1,
+CONSTRUCCION,CONSTRUCTORA,18,remotoHub,No requiere,Fundamental,No puede trasladarse,No requiere,Agrega algo de valor,Público remoto considerable,,3,4,4,1,2
+VENTA AL POR MAYOR DE ALIMENTOS Y BEBIDAS,VENTA POR MAYOR DE ALIMENTOS Y BEBIDAS,20,remotoHub,Infraestructura considerable,Fundamental,No requiere,No requiere,Agrega mucho valor,Público remoto considerable,,3,4,3,3,4
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,MASAS Y SANDWICHES (ELAB. Y VENTA),11,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+SERVICIOS AUXILIARES A LA ACTIVIDAD FINANCIERA,BOLSA DE COMERCIO,2,remotoFull,Infraestructura considerable,No se distribuyen,No requiere,No requiere,No agrega valor,Público remoto potencial,,3,3,1,2,2
+COMERCIO,SOUVENIRS,54,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+INTERMEDIACION FINANCIERA Y AUXILIARES,SERVICIOS FINANCIEROS (OTROS),24,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+COMERCIO,INSTRUMENTAL MEDICO,40,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",SALON DE JUEGOS RECREATIVOS,8,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,HERRERIA + PLOMERIA,4,remotoHub,Maquinaria pesada,Fundamental,No puede trasladarse,Opcional,No agrega valor,Público remoto considerable,,2,5,5,2,3
+BAJO AUTOPISTA,BAJO AUTOPISTA,665,espacioPublico,,,,,,,espacioPublico,,,,,
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",PATINAJE SOBRE HIELO,1,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+OTROS SERVICIOS,ASTROLOGIA,1,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+HOTELERIA Y GASTRONOMIA,RESTAURANTE - CAFE,109,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+SERVICIOS EMPRESARIALES,DISEÑOS PUBLICITARIOS,8,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",BINGO,4,remotoComplex,Infraestructura considerable,Factible de manera eficiente,Se traslada una persona,No requiere,Es excluyente,Público remoto incipiente,,1,2,1,5,5
+INTERMEDIACION FINANCIERA Y AUXILIARES,CASA DE CAMBIO,51,remotoNo,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,3,4
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",SERVICIOS PUBLICOS,45,servicioSi,,,,,,,servicioSi,,,,,
+"ALQUILER DE MAQUINARIA Y EQUIPO, ALQUILER DE EFECTOS PERSONALES",ALQUILER AUTOS,24,remotoComplex,Infraestructura considerable,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,1,2,3,3
+FABRICACION DE SUSTANCIAS Y PRODUCTOS QUIMICOS,FABRICA DE ART. DE LIMPIEZA Y PERFUMERIA,7,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,APARATOS DE GIMNASIA (VENTA),10,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,Presencial,No agrega valor,Público remoto considerable,,3,4,3,3,4
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",ESCUELA DE NATACION,9,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+SERVICIOS INFORMATICOS Y ACTIVIDADES CONEXAS,INTERNET + KIOSCO,9,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,1,3,3,5
+HOTELERIA Y GASTRONOMIA,CONFITERIA BAILABLE,4,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,TALABARTERIA,33,remotoHub,Herramientas manuales,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,1
+FABRICACION DE PRODUCTOS METALICOS,ENVASES DE METAL,8,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,REPARACION AIRE ACONDICIONADO,20,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+COMERCIO,JUGUETES USADOS,2,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,3
+COMERCIO,FRUTERIA,5,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,HERBORISTERIA,11,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,VENTA DE CHURROS (ELABORACION),5,remotoMix,Maquinaria liviana,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+CONSTRUCCION,PERFORACIONES PARA OBRAS,2,remotoHub,No requiere,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,4,5,3,1,2
+COMERCIO,CORTINAS DE BAÑO,14,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+FABRICACION DE PRODUCTOS DE MADERA Y CORCHO,FABRICA DE CORTINAS DE ENROLLAR,2,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+CONFECCION DE PRENDAS DE VESTIR,FABRICACION ROPA INTERIOR,4,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,ARTICULOS TOCADOR (VENTA),11,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+"FABRICACIÓN DE PRODUCTOS ELABORADOS DE METAL, EXCEPTO MAQUINARIA Y EQUIPO","DROGAS PARA CROMADORES, NIQUELADORES Y GALVANIZAD*",2,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,No agrega valor,Público remoto potencial,,3,4,2,3,2
+SERVICIOS EMPRESARIALES,LITOGRAFIA,3,remotoHub,Maquinaria liviana,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",ORGANISMOS PUBLICOS PROVINCIALES,13,servicioSi,,,,,,,servicioSi,,,,,
+ENSEÑANZA,ESCUELA DE MANEJO,3,remotoComplex,Infraestructura considerable,"Factible, no eficiente",Se traslada una persona,Presencial,Es excluyente,Público remoto potencial,,0,0,2,6,5
+COMERCIO,MANIQUIES,28,remotoHub,Infraestructura chica,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+OTROS SERVICIOS,ACADEMIA DE PELUQUERIA,7,remotoComplex,Infraestructura considerable,Factible de manera eficiente,Se traslada una persona,Presencial,Es excluyente,Público remoto incipiente,,0,1,2,6,6
+COMERCIO,REPARACION DE AUDIO,22,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,VENTA DE HERRAJES,8,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+COMERCIO,MONEDAS ANTIGUAS,10,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Presencial,No agrega valor,Público remoto potencial,,1,2,3,5,4
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CABLEVISION,6,remotoHub,Infraestructura considerable,Fundamental,No puede trasladarse,No requiere,Agrega algo de valor,Público remoto considerable,,2,4,4,2,3
+COMERCIO,POLLOS,10,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+VIAS DE PREMETRO,VIAS DE PREMETRO,2,espacioPublico,,,,,,,espacioPublico,,,,,
+SERVICIOS ANEXOS AL TRANSPORTE,TERMINAL DE MICROS,26,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,No requiere,Agrega mucho valor,Sin público remoto,,1,1,1,3,5
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,HELADERIA + PIZZERIA,4,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+GALERIA,GALERIA,1,remotoNo,Infraestructura considerable,No se distribuyen,Performance,No requiere,Agrega mucho valor,Sin público remoto,,1,1,1,3,5
+BAJO TREN,BAJO TREN,1,espacioPublico,,,,,,,espacioPublico,,,,,
+COMERCIO,DROGUERIA,8,remotoHub,Herramientas manuales,"Factible, no eficiente",No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,2,3,3,3,1
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",PRODUCTORA DE MUSICA,2,remotoComplex,Infraestructura chica,Digital,Performance,No requiere,Agrega mucho valor,Público remoto potencial,,2,2,3,4,3
+SERVICIOS EMPRESARIALES,DESINFECCION DE INMUEBLES,4,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+EDICION E IMPRESIÓN,DIARIO,7,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+COMERCIO,KIOSCO + FIAMBRERIA,8,remotoComplex,Infraestructura considerable,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto incipiente,,1,1,2,3,3
+VENTA AL POR MAYOR DE ARTICULOS DE USO DOMESTICO O PERSONAL,DISTRIBUCION DIARIOS Y REVISTAS,5,remotoMix,Infraestructura chica,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+COMERCIO,TORTAS (VENTA NO ELAB.),7,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+COMERCIO,"TROFEOS, MEDALLAS, COPAS",16,remotoHub,Herramientas manuales,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,1
+SERVICIOS EMPRESARIALES,CONTROL DE PLAGAS,1,remotoHub,Herramientas manuales,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,2
+COMERCIO,PIEDRAS PRECIOSAS,10,remotoMix,Herramientas manuales,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto potencial,,1,2,4,4,2
+FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICOS,FABRICA DE ART. DE PLASTICO,3,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+EDICION E IMPRESIÓN,TALLER DE ENCUADERNACION,3,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Público remoto incipiente,,0,1,3,5,5
+COMERCIO POR MAYOR,VENTA POR MAYOR DE MERCANCIAS,6,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+"FABRICACION DE ARTICULOS DE MARROQUINERIA, TALABARTERIA Y CALZADO Y DE SUS PARTES",FABRICA DE ZAPATILLAS,1,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICIOS EMPRESARIALES,PELETERIA,3,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+"FABRICACION DE COQUE, PRODUCTOS DE LA REFINACION DEL PETROLEO Y COMBUSTIBLE NUCLEAR",FAB. PROD. DERIVADOS DEL PETROLEO,6,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+"ALQUILER DE MAQUINARIA Y EQUIPO, ALQUILER DE EFECTOS PERSONALES",ALQUILER DE MAQUINARIA Y EQUIPO,6,remotoMix,Infraestructura chica,Fundamental,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+COMERCIO,"COCINAS, CALEFONES, VENTA",14,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,Agrega algo de valor,Público remoto considerable,,1,3,6,2,3
+SERVICIOS EMPRESARIALES,SERVICIOS EMPRESARIALES (OTROS),29,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,4,2,2,1,0
+HOTELERIA Y GASTRONOMIA,PIZZERIA + HELADERIA,2,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+SERVICOS SOCIALES Y DE SALUD,CENTRO DE RADIOLOGIA,1,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+FABRICACION DE PRODUCTOS TEXTILES,FABRICA DE CORDONES,2,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICIOS ANEXOS AL TRANSPORTE,SERVICIOS PARA LA NAVEGACION,1,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+ELABORACION DE PRODUCTOS ALIMENTICIOS Y BEBIDAS,DESPACHO DE PAN (ELABORACION),2,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+FABRICACION DE MAQUINARIA Y EQUIPO NCP,FABRICA DE BALANZAS,3,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+FABRICACION DE PRODUCTOS DE MADERA Y CORCHO,FABRICA DE ABERTURAS,9,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,VENTA POR MAYOR REP. AUTOMOTORES,3,remotoHub,Infraestructura considerable,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,4,3,2,3
+SERVICIOS DE ASOCIACIONES,SOCIEDAD DE FOMENTO,8,remotoComplex,No requiere,No se distribuyen,Performance,No requiere,Es excluyente,Público remoto potencial,,2,1,1,3,3
+SERVICIOS EMPRESARIALES,LIMPIEZA DE EDIFICIOS,3,remotoHub,Maquinaria liviana,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,3
+COMERCIO,CAMARAS DE FOTOS (VENTA),12,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+"CURTIDO Y TERMINACION DE CUEROS, FABRICACION DE ARTICULOS DE MARROQUINERIA, TALABARTERIA Y CALZADO",CURTIEMBRE,1,remotoHub,Herramientas manuales,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,2
+SERVICIOS EMPRESARIALES,AUDITORIA Y ASESORAMIENTO CONTABLE,1,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+COMERCIO,REGALOS + KIOSCO,4,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CANCHAS DE GOLF,5,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+SERVICIOS EMPRESARIALES,AGENCIA DE PUBLICIDAD,11,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,5,3,2,0,1
+FABRICACION DE PRODUCTOS DE CAUCHO Y PLASTICOS,FABRICA DE PROD. DE CAUCHO,5,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+UNIFICADO,UNIFICADO ES,2,espacioPublico,,,,,,,espacioPublico,,,,,
+COMERCIO,ART. SEGURIDAD INDUSTRIAL,20,remotoFull,No requiere,Factible de manera eficiente,No requiere,No requiere,No agrega valor,Público remoto potencial,,4,4,2,2,1
+"FABRICACION DE MAQUINARIA DE OFICINA, CONTABILIDAD E INFORMATICA",FAB. MAQ. DE OFICINA,2,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,AEROMODELISMO,2,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,Agrega mucho valor,Público remoto incipiente,,2,3,2,4,4
+COMERCIO,ELECTRODOMESTICOS,187,remotoMix,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,3,4,3,4
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",FABRICACION DE MANUFACTURAS,1,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,CONCESIONARIA DE AUTOMORES,1,remotoNo,Infraestructura considerable,No se distribuyen,No requiere,Presencial,Agrega mucho valor,Público remoto incipiente,,1,1,2,4,5
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",EMBAJADA,95,servicioSi,,,,,,,servicioSi,,,,,
+COMERCIO,KIOSCO + MERCERIA,6,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICOS SOCIALES Y DE SALUD,FONOAUDIOLOGIA,1,remotoNo,Maquinaria pesada,No se distribuyen,No requiere,Presencial,Agrega algo de valor,Sin público remoto,,1,2,3,2,4
+INSTALACIONES PARA EDIFICIOS Y OBRAS DE INGENIERIA CIVIL,PLOMERIA + HERRERIA,3,remotoMix,Maquinaria pesada,Fundamental,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+"ALQUILER DE MAQUINARIA Y EQUIPO, ALQUILER DE EFECTOS PERSONALES",ALQUILER DE DISFRACES,2,remotoComplex,Infraestructura chica,"Factible, no eficiente",No requiere,Presencial,Agrega algo de valor,Público remoto incipiente,,1,2,3,4,4
+FABRICACION DE MAQUINARIA Y EQUIPO NCP,FAB. DE MOTORES,4,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,MUEBLES + ARTICULOS DE DECORACION (VENTA),1,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,ARTICULOS TOCADOR (VENTA),4,remotoHub,Herramientas manuales,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,1
+COMERCIO,VENTA DE HERRAJES,1,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+FABRICACION DE EQUIPOS DE COMUNICACION,FABRICACION DE EQUIPOS DE COMUNICACION,1,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+COMERCIO,VTA. POR MAYOR DE ART. DE LIBRERIA,1,remotoHub,Infraestructura considerable,Factible de manera eficiente,No requiere,No requiere,Agrega algo de valor,Público remoto considerable,,3,4,3,2,3
+SERVICIOS DE ASOCIACIONES,CIUDADANIA ITALIANA,5,servicioSi,,,,,,,servicioSi,,,,,
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",MULTICANAL,1,remotoHub,No requiere,Fundamental,No puede trasladarse,No requiere,Agrega algo de valor,Público remoto considerable,,3,4,4,1,2
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",GESTIONES JUDICIALES,1,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+COMERCIO,DEPORTES ACUATICOS,1,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,PELUCAS,9,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada una persona,Presencial,No agrega valor,Público remoto incipiente,,1,2,2,5,4
+"FABRICACION DE ARTICULOS DE MARROQUINERIA, TALABARTERIA Y CALZADO Y DE SUS PARTES",FABRICA DE BOLSOS,1,remotoHub,Maquinaria liviana,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICOS SOCIALES Y DE SALUD,LABORATORIO DE ANALISIS CLINICOS,4,remotoNo,Maquinaria liviana,No se distribuyen,Se traslada una persona,No requiere,No agrega valor,Sin público remoto,,2,3,1,2,4
+PRODUCTOS DE MADERA,CONFECCION DE MARCOS,1,remotoMix,Maquinaria liviana,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto incipiente,,1,2,3,3,3
+COMERCIO,ESTILOGRAFOS,3,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Opcional,Agrega algo de valor,Público remoto potencial,,0,1,5,3,2
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",CASA DE PROVINCIA,5,servicioSi,,,,,,,servicioSi,,,,,
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",CONSULADO,7,servicioSi,,,,,,,servicioSi,,,,,
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",GRABACIONES EN VIDEO,1,remotoHub,Herramientas manuales,No se distribuyen,No requiere,No requiere,Agrega algo de valor,Público remoto incipiente,,2,3,2,2,2
+COMERCIO,SKI (VENTA DE ARTS.),3,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,No agrega valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,PELICULAS,6,remotoHub,Infraestructura chica,Factible de manera eficiente,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,2,4,4,3,2
+COMERCIO,DIARIOS Y REVISTAS (VENTA),2,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+SERVICIOS AUXILIARES A LA ACTIVIDAD FINANCIERA,CAJA DE VALORES,6,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Sin público remoto,,5,3,0,0,1
+COMERCIO,HABANOS,5,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+"FABRICACION DE MUEBLES Y COLCHONES, INDUSTRIAS MANUFACTURERAS",FABRICA DE MUEBLES,1,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,REPUESTOS DE AUTOMOTOR (VENTA),1,remotoMix,Maquinaria pesada,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+SERVICIOS EMPRESARIALES,CENTRO DE ABROCHADO Y PERFORACION,2,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto potencial,,1,2,4,3,1
+SERVICIOS EMPRESARIALES,LIMPIEZA DE OFICINAS,1,remotoHub,Maquinaria liviana,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,3
+COMERCIO AL POR MAYOR EN COMISION O CONSIGNACION,VENTA DE GAS NATURAL,2,remotoHub,Infraestructura considerable,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,5,3,2,3
+"SERVICIOS COMUNITARIOS, SOCIALES Y PERSONALES NCP",ELIMINACION DE DESPERDICIOS,3,remotoHub,Maquinaria pesada,Fundamental,No puede trasladarse,No requiere,No agrega valor,Público remoto considerable,,3,6,4,2,3
+BAJO PUENTE,BAJO PUENTE,5,espacioPublico,,,,,,,espacioPublico,,,,,
+SERVICIOS EMPRESARIALES,TRANSFERS,2,remotoMix,Infraestructura considerable,Fundamental,No puede trasladarse,Opcional,Agrega mucho valor,Público remoto potencial,,0,2,5,4,3
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",MINISTERIO DE JUSTICIA,1,servicioSi,,,,,,,servicioSi,,,,,
+HOTELERIA Y GASTRONOMIA,PARRILLA + KIOSCO,1,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+COMERCIO,RESTAURADOR DE CUADROS,1,remotoMix,Herramientas manuales,Fundamental,Opcional,Opcional,Agrega algo de valor,Público remoto potencial,,0,2,6,3,1
+COMERCIO,VENTA DE ANTEOJOS,12,remotoMix,Infraestructura chica,Factible de manera eficiente,Opcional,Opcional,Agrega algo de valor,Público remoto potencial,,0,2,6,3,2
+COMERCIO,REPARACION DE PARAGUAS,1,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",HIPODROMO,3,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,GOLF (VENTA DE ARTS),1,remotoMix,Infraestructura chica,Factible de manera eficiente,No puede trasladarse,Opcional,Agrega algo de valor,Público remoto potencial,,0,3,6,3,2
+ENSEÑANZA,ESCUELA DE BARMAN,1,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+FABRICACION DE PRODUCTOS QUIMICOS,FABRICA DE PAÑALES,1,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",AUTODROMO,1,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+COMERCIO,LABORATORIO DE RECETAS MAGISTRALES,2,remotoMix,Maquinaria liviana,No se distribuyen,No requiere,Opcional,Agrega algo de valor,Sin público remoto,,1,2,3,1,3
+VENTA Y REP. DE VEHICULOS AUTOMOTORES,"MOTOS, REPUESTOS Y ACCESORIOS",1,remotoMix,Maquinaria pesada,Factible de manera eficiente,Opcional,Opcional,No agrega valor,Público remoto considerable,,2,4,5,2,3
+SERVICIOS EMPRESARIALES,INSTITUTO DE GASTRONOMIA,2,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",SHOWS,5,remotoNo,Infraestructura considerable,No se distribuyen,Performance,Opcional,Es excluyente,Sin público remoto,,0,0,1,3,5
+SERVICIO DE TRANSPORTE AEREO,TRANSPORTE DE CARGAS AEREAS,3,remotoComplex,Infraestructura considerable,Fundamental,Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,2,3,4,3
+FABRICACION DE PRODUCTOS TEXTILES,FABRIC. TAPICES Y ALFOMBRAS,2,remotoHub,Maquinaria pesada,Fundamental,No requiere,Opcional,No agrega valor,Público remoto considerable,,3,5,4,2,3
+SERVICIO DE TRANSPORTE AEREO,LINEA AEREA,4,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,No requiere,Agrega mucho valor,Sin público remoto,,1,1,1,3,5
+SERVICIOS EMPRESARIALES NCP,CENTRO DE MEDIACION (DILIGENCIAMIENTOS JUDICIALES),1,servicioSi,,,,,,,servicioSi,,,,,
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",LOTERIA + INTERNET,2,remotoNo,Infraestructura chica,No se distribuyen,Se traslada una persona,No requiere,Agrega algo de valor,Sin público remoto,,1,2,2,2,4
+SERVICIOS EMPRESARIALES,ENCHAPADO (JOYAS),5,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Público remoto incipiente,,1,2,3,3,2
+COMERCIO,HIDROMASAJES,2,remotoMix,Infraestructura considerable,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICIOS EMPRESARIALES,ENGARCES (JOYAS),12,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Sin público remoto,,1,2,3,2,2
+SERVICIOS EMPRESARIALES,ENHEBRADOR DE COLLARES,2,remotoMix,Herramientas manuales,"Factible, no eficiente",Opcional,Opcional,No agrega valor,Sin público remoto,,1,2,3,2,2
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",CAJA DE RETIROS Y JUBILACIONES DE LA POLICIA FEDE*,2,servicioSi,,,,,,,servicioSi,,,,,
+COMERCIO,DESPACHO DE PAN (VENTA NO ELAB.),2,remotoMix,Maquinaria pesada,Fundamental,No requiere,Opcional,Agrega algo de valor,Público remoto considerable,,2,4,5,2,3
+COMERCIO,CENTRO DE REPARACION DE APARATOS AUDITIVOS,3,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+COMERCIO,PARTITURAS MUSICALES,1,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,2,3,3,3,2
+"SERVICIOS DE ESPARCIMIENTO, CULTURALES Y DEPORTIVOS",CARTELERA DE ESPECTACULOS,4,remotoHub,Infraestructura chica,Fundamental,No requiere,No requiere,Agrega algo de valor,Público remoto potencial,,2,4,4,3,2
+SERVICIOS EMPRESARIALES,ESTIUDIO CONTABLE,1,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+COMERCIO,GOLOSINERIA,1,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,REPARACION ART. ELECTRONICOS,1,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,No requiere,No agrega valor,Público remoto incipiente,,2,3,1,4,3
+HOTELERIA Y GASTRONOMIA,CAFE,668,remotoComplex,Infraestructura considerable,"Factible, no eficiente",No requiere,Opcional,Agrega mucho valor,Público remoto incipiente,,1,1,2,4,4
+COMERCIO,FILATELIA,22,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+SERVICIOS EMPRESARIALES NCP,LEGALIZACION DE DOCUMENTOS,1,servicioSi,,,,,,,servicioSi,,,,,
+"CURTIDO Y TERMINACION DE CUEROS, FABRICACION DE ARTICULOS DE MARROQUINERIA, TALABARTERIA Y CALZADO",CUEROS,1,remotoHub,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,No agrega valor,Público remoto potencial,,2,3,3,3,2
+SERVICIOS EMPRESARIALES,SERVICIO TECNICO,1,remotoHub,Herramientas manuales,Fundamental,Se traslada un bien,No requiere,Agrega algo de valor,Público remoto considerable,,2,4,4,3,3
+COMERCIO,ESTAMPILLAS,7,remotoComplex,Infraestructura chica,"Factible, no eficiente",Se traslada un bien,Opcional,Agrega algo de valor,Público remoto incipiente,,0,1,3,4,4
+OTROS SERVICIOS,CENTRO ESTETICA CORPORAL,1,remotoNo,Infraestructura considerable,"Factible, no eficiente",Se traslada una persona,Opcional,Agrega mucho valor,Sin público remoto,,0,0,2,4,5
+COMERCIO,COMPOSTURA DE LAPICERAS,1,remotoComplex,Herramientas manuales,"Factible, no eficiente",Se traslada un bien,Opcional,No agrega valor,Sin público remoto,,1,2,2,3,3
+SERVICIOS EMPRESARIALES,SERVICIOS INMOBILIARIOS,1,remotoFull,No requiere,Digital,No requiere,No requiere,Agrega algo de valor,,,4,2,1,0,0
+"ADMINISTRACION PUBLICA, DEFENSA Y SEGURIDAD SOCIAL OBLIGATORIA",PUESTO DE INFO. TURISTICA,3,servicioSi,,,,,,,servicioSi,,,,,
+ELABORACION DE PRODUCTOS ALIMENTICOS Y BEBIDA,HELADOS + CAFE,1,remotoMix,Maquinaria pesada,Factible de manera eficiente,No requiere,Opcional,Agrega mucho valor,Público remoto considerable,,2,4,5,3,4
+SERVICIOS EMPRESARIALES,CONSULTORA DE TRABAJO Y RECURSOS HUM,1,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,5,3,1,1,0
+EDICION E IMPRESIÓN,EDICION DE LIBROS,2,remotoFull,No requiere,Digital,No requiere,Opcional,No agrega valor,Público remoto potencial,,4,2,2,1,0
+SERVICIOS EMPRESARIALES,INVESTIGACIONES DE MERCADO,1,remotoFull,No requiere,Digital,No requiere,No requiere,No agrega valor,Público remoto considerable,,6,4,1,0,1
+ENSEÑANZA,ESCUELA DE MODELOS,1,remotoNo,Infraestructura considerable,No se distribuyen,Se traslada una persona,Presencial,Es excluyente,Sin público remoto,,0,0,1,4,6
+COMERCIO,MERCERIA + KIOSCO,2,remotoMix,Infraestructura chica,"Factible, no eficiente",No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,2,4,3,2
+COMERCIO,"ALFOMBRAS, PAPELES PARA PAREDES",1,remotoMix,Infraestructura chica,Fundamental,No puede trasladarse,Opcional,Agrega algo de valor,Público remoto potencial,,0,3,6,3,2
+COMERCIO,COMPOSTURA DE CUEROS,4,remotoMix,Infraestructura chica,Fundamental,Se traslada un bien,Opcional,No agrega valor,Público remoto potencial,,1,3,4,4,3
+COMERCIO,MUÑECAS DE PORCELANA,1,remotoMix,Infraestructura chica,"Factible, no eficiente",Opcional,Opcional,Agrega algo de valor,Público remoto potencial,,0,1,5,3,2
+COMERCIO,POLO (VENTA DE ARTS.),2,remotoMix,Infraestructura chica,Factible de manera eficiente,No requiere,Opcional,Agrega algo de valor,Público remoto potencial,,1,3,5,3,2
+SERVICIOS AGRICOLAS Y PECUARIOS,RIEGO DE PRESICION,1,remotoHub,Infraestructura chica,Fundamental,No puede trasladarse,Opcional,No agrega valor,Público remoto considerable,,2,5,5,2,3
+SERVICIOS EMPRESARIALES,CENTRO DE COMPUTOS,1,remotoFull,Maquinaria liviana,Digital,No requiere,No requiere,No agrega valor,Público remoto potencial,,4,4,2,2,1
