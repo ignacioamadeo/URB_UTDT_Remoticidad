@@ -12,7 +12,9 @@ En el siguiente trabajo se construye una metodología de análisis de actividade
 
 La clasificación utiliza el Relevamiento de Uso del Suelo (2017) de la Ciudad Autónoma de Buenos Aires (Argentina).
 
-El archivo de Tesis completa es: 
+El archivo de Tesis completa es:
 >> "MEU 2021 - Tesis remoticidad 16K1013 (VERSION FINAL - 04JUL2021) - con Tablas.pdf
+
+Permalink: https://github.com/ignacioamadeo/URB_UTDT_Remoticidad/blob/72d6ecfb306b520768e579143c73ae56e7f8864d/MEU%202021%20-%20Tesis%20remoticidad%2016K1013%20(VERSION%20FINAL%20-%2004JUL2021)%20-%20con%20Tablas.pdf
 
 
